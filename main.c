@@ -1,3 +1,5 @@
+// Author Uzair Khan
+// A Compiller buffer 
 #include<stdio.h>
 #include "buffer.h"
 

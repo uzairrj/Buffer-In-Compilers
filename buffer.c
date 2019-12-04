@@ -1,3 +1,6 @@
+// Author Uzair Khan
+// A Compiller buffer 
+
 #include "buffer.h"
 
 Buffer *b_alloc(short init_capacity,char inc_factor, char o_mode){

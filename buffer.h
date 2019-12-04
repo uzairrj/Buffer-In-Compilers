@@ -1,3 +1,5 @@
+// Author Uzair Khan
+// A Compiller buffer 
 #ifndef BUFFER_H_
 #define BUFFER_H_
 
