@@ -1,4 +1,4 @@
-#Buffers in Compiler
+# Buffers in Compilers
 A buffer purely developed in C, It is used in compilers, and can be used in any other softwares.
 
 The buffer can be operable in three states:
